@@ -1,0 +1,27 @@
+2025-07-28 14:41:03 - Please select pcap!
+2025-07-28 14:41:20 - Please select output folder!
+2025-07-28 14:41:41 - You select: ..\..\combined.pcap
+2025-07-28 14:41:41 - Out folder: ..\..\
+2025-07-28 14:41:41 - CICFlowMeter received 1 pcap file
+2025-07-28 14:41:41 - Error while opening file for capture: bad dump file format
+2025-07-28 14:43:17 - Error while opening file for capture: bad dump file format
+2025-07-29 09:54:59 - Error while opening file for capture: bad dump file format
+2025-07-31 16:28:29 - Error while opening file for capture: bad dump file format
+2025-08-05 11:02:18 - The pcap file or folder does not exist! -> -i
+2025-08-05 11:02:25 - The pcap file or folder does not exist! -> -h
+2025-08-05 11:02:31 - Please select pcap!
+2025-08-05 11:03:08 - Pcap is listening...
+2025-08-05 11:03:24 - Pcap stop listening
+2025-08-05 11:03:24 - path:C:\Users\HP\Desktop\Test\backend\CICFlowMeter-4.0\bin\data\daily\2025-08-05_Flow.csv
+2025-08-05 11:05:09 - Pcap is listening...
+2025-08-05 11:05:12 - Pcap stop listening
+2025-08-05 11:05:12 - path:C:\Users\HP\Desktop\Test\backend\CICFlowMeter-4.0\bin\data\daily\2025-08-05_Flow.csv
+2025-08-05 11:05:14 - Pcap is listening...
+2025-08-05 11:05:17 - Pcap stop listening
+2025-08-05 11:05:17 - path:C:\Users\HP\Desktop\Test\backend\CICFlowMeter-4.0\bin\data\daily\2025-08-05_Flow.csv
+2025-08-05 11:05:19 - Pcap is listening...
+2025-08-05 11:05:22 - Pcap stop listening
+2025-08-05 11:05:22 - path:C:\Users\HP\Desktop\Test\backend\CICFlowMeter-4.0\bin\data\daily\2025-08-05_Flow.csv
+2025-08-05 11:05:24 - Pcap is listening...
+2025-08-05 11:05:27 - Pcap stop listening
+2025-08-05 11:05:27 - path:C:\Users\HP\Desktop\Test\backend\CICFlowMeter-4.0\bin\data\daily\2025-08-05_Flow.csv
