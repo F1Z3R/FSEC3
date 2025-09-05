@@ -1,4 +1,5 @@
-# 🔐 AI-Driven Intrusion Detection & Rule Generation Tool
+# FSEC: AI Tool for Malicious Flow Detection and Rule
+Generation
 
 ## 📌 Overview  
 This project is an **AI-powered Intrusion Detection System (IDS) assistant** that integrates machine learning with automated rule generation.  
