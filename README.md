@@ -59,6 +59,8 @@ OpenJDK 64-Bit Server VM (Temurin)(build 25.452-b09, mixed mode)
 # Usage
 ./python3 tool.py  //make sure to be in the /code folder
 
+# Place the pcap files in /Pcap-files
+
 ## 📈 Future Enhancements  
 
 - ⚡ **Real-Time Deployment** – Extend the system from offline post-analysis to real-time traffic monitoring and dynamic rule enforcement.  
