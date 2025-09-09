@@ -50,6 +50,12 @@ The tool consists of three main modules:
 - Required libraries:  
 ```bash
 pip install pandas scikit-learn xgboost joblib requests
+
+# Use java :
+openjdk version "1.8.0_452"
+OpenJDK Runtime Environment (Temurin)(build 1.8.0_452-b09)
+OpenJDK 64-Bit Server VM (Temurin)(build 25.452-b09, mixed mode) 
+
 # Usage
 ./python3 tool.py  //make sure to be in the /code folder
 
